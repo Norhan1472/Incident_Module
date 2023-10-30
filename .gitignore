@@ -1,0 +1,7 @@
+/logs/
+/target/
+logs/*
+target/*
+*.gz
+*.log
+*.properties
